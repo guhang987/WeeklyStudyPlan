@@ -69,7 +69,7 @@ class NormalLoginForm extends React.Component {
                         newState[index].detail.unshift({ i: 'c_' + (index) + '_' + values.u2, x: 0, y: 0, w: 1, h: 1, name: `${values.u2}` })
                     }else{
                         for(let i=1;i<=values.u3;i++){
-                            newState[index].detail.unshift({ i: 'c_' + (index) + '_' + values.u2+i, x: 0, y: 0, w: 1, h: 1, name: `${values.u2}(${i}/${values.u3})` })
+                            newState[index].detail.unshift({ i: `c_${index}_${values.u2}(${i}/${values.u3})`, x: 0, y: 0, w: 1, h: 1, name: `${values.u2}(${i}/${values.u3})` })
                         }
                     }
                     this.setState({
