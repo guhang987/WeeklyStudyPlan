@@ -1,5 +1,7 @@
 # 周计划表
-## 版本
+## demo
+http://guhang.fun
+## 截图
 1.0
 ## Usage
 环境：node、mongodb
