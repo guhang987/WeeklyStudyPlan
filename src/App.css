@@ -1,0 +1,27 @@
+.demo {
+    margin: 16px;
+  }
+  .demo-nav {
+    height: 50px;
+    line-height: 30px;
+    margin-bottom: 16px;
+    background: #f8f8f8;
+  }
+  .demo-nav a {
+    margin-left: 20%;
+    font-size: 250%;
+    line-height: 40px;
+    padding: 1px 7px;
+  }
+
+  #components-form-demo-normal-login .login-form {
+    max-width: 300px;
+  }
+  #components-form-demo-normal-login .login-form-forgot {
+    float: right;
+  }
+  .ant-list-items,.ant-list-header {
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+  }
