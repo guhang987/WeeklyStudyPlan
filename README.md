@@ -1,6 +1,6 @@
 # 周计划表
 ## demo
-http://guhang.fun（后台暂时关闭）
+http://guhang.fun （后台服务器暂时关闭）
 ## Usage
 环境：node、mongodb
 0. 修改config.js中的`serverUrl`为你的服务器地址
