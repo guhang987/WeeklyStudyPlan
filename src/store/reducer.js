@@ -24,12 +24,12 @@ const defaultState = {
         {
             author: '蒙奇·D·路飞',
             avatar: 'https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png',
-            content: "海贼王，我当定了——我是要成为海贼王的男人！",
+            content: "今日事，今日毕。",
             reply: [
                 {
                     author: '特拉法加尔·劳',
                     avatar: 'https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png',
-                    content: "你已经完成这么多任务了吗草帽小子，真有你的啊！我们一起加油吧，奥里给!",
+                    content: "一起加油，奥里给!",
                 }
             ],
             replyVisible: 'none',

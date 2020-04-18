@@ -1,5 +1,6 @@
-const serverUrl = "http://guhang.fun:8001"
+//const serverUrl = "http://guhang.fun:8001"
 //const serverUrl = "http://localhost:8001"
+const serverUrl = "http://192.168.1.4:8001"
 export default serverUrl
 //BugList
 //历史数据展示--future还没想好每日数据如何处理

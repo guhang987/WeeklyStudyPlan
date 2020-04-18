@@ -42,7 +42,7 @@ class NormalLoginForm extends React.Component {
                             ...newState,
                         ]
                     }else{
-                        //已有类被
+                        //已有类别
                         console.log()
                         let detail=[]
                         for(let i=1;i<=values.u3;i++){
