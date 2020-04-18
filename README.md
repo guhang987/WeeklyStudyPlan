@@ -21,7 +21,10 @@ npm start
 2. 制定周计划后，从周计划表中拖拽任务到日计划表，完成后打勾
 3. 评论功能
 ## 截图
-后续上传
+![avatar](/img/1.png)
+![avatar](/img/2.jpg)
+![avatar](/img/3.jpg)
+![avatar](/img/4.png)
 ## 技术栈
 Antd3 + react + redux + express + mongoDB
 ## 碎碎念
